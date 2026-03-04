@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Trust in you",
+  "base_artist": "sweet ARMS",
+  "createdAt": "2026-03-04T14:10:33.304676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trust in You",
+      "artist": "Masterplan",
+      "has_synced": true,
+      "path": "select/01_Trust_in_You_Masterplan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trust in You",
+      "artist": "Tourist",
+      "has_synced": true,
+      "path": "select/02_Trust_in_You_Tourist.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trust In You",
+      "artist": "Wishbone Ash",
+      "has_synced": false,
+      "path": "select/03_Trust_In_You_Wishbone_Ash.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trust In You",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/04_Trust_In_You_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Put My Trust In You",
+      "artist": "John Lee Hooker",
+      "has_synced": false,
+      "path": "select/05_I_Put_My_Trust_In_You_John_Lee_Hooker.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Put My Trust In You",
+      "artist": "Johnny Van Zant",
+      "has_synced": false,
+      "path": "select/06_Put_My_Trust_In_You_Johnny_Van_Zant.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Put My Trust In You",
+      "artist": "Johnny Van Zant",
+      "has_synced": false,
+      "path": "select/07_Put_My_Trust_In_You_Johnny_Van_Zant.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Will Trust In You",
+      "artist": "Jeremy Camp",
+      "has_synced": true,
+      "path": "select/08_I_Will_Trust_In_You_Jeremy_Camp.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trust In You",
+      "artist": "Jeremy Camp",
+      "has_synced": true,
+      "path": "select/09_Trust_In_You_Jeremy_Camp.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Put My Trust In You",
+      "artist": "Tessa",
+      "has_synced": false,
+      "path": "select/10_I_Put_My_Trust_In_You_Tessa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Trust in you",
+      "artist": "sweet ARMS",
+      "has_synced": true,
+      "path": "select/11_Trust_in_you_sweet_ARMS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Trust in you (Another Version)",
+      "artist": "sweet ARMS",
+      "has_synced": true,
+      "path": "select/12_Trust_in_you_(Another_Version)_sweet_ARMS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Will Trust In You",
+      "artist": "Elevation Worship",
+      "has_synced": false,
+      "path": "select/13_I_Will_Trust_In_You_Elevation_Worship.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Trust in You",
+      "artist": "Lauren Daigle",
+      "has_synced": true,
+      "path": "select/14_Trust_in_You_Lauren_Daigle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Trust in Me",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/15_Trust_in_Me_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Trust In Me",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/16_Trust_In_Me_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Trust in Me",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/17_Trust_in_Me_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Trust in Rust",
+      "artist": "Van Canto",
+      "has_synced": false,
+      "path": "select/18_Trust_in_Rust_Van_Canto.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Trust In Me",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/19_Trust_In_Me_Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Trust In Drink",
+      "artist": "The Irish Rovers",
+      "has_synced": true,
+      "path": "select/20_Trust_In_Drink_The_Irish_Rovers.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Trust in Me",
+      "artist": "Harry Nilsson",
+      "has_synced": false,
+      "path": "select/21_Trust_in_Me_Harry_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Trust In Me",
+      "artist": "Fats Domino",
+      "has_synced": false,
+      "path": "select/22_Trust_In_Me_Fats_Domino.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Trust in Me",
+      "artist": "Patti Page",
+      "has_synced": false,
+      "path": "select/23_Trust_in_Me_Patti_Page.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Trust in Me",
+      "artist": "Katy Hudson",
+      "has_synced": true,
+      "path": "select/24_Trust_in_Me_Katy_Hudson.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Trust In Me",
+      "artist": "Holly Cole",
+      "has_synced": true,
+      "path": "select/25_Trust_In_Me_Holly_Cole.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Trust In Me",
+      "artist": "Holly Cole Trio",
+      "has_synced": true,
+      "path": "select/26_Trust_In_Me_Holly_Cole_Trio.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trust in you",
+      "artist": "sweet ARMS",
+      "has_synced": false,
+      "path": "select/pl_01_Trust_in_you_sweet_ARMS.txt"
+    }
+  ]
+}
